@@ -29,4 +29,4 @@ Reset Option:
 
 Start fresh anytime with the one-click reset button for recalculating weight.
 🔗 Download the App:
-Get started with WeighzCalz and make your material weight calculations hassle-free! Download the app now from Google Drive.
+Get started with WeighzCalz and make your material weight calculations hassle-free! Download the app now from [clickhere](https://drive.google.com/file/d/1josThn1FO9FETjegU14bgPSHQSkDtdc7/view?usp=drive_link).
