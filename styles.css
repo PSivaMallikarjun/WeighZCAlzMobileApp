@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to left, #f4f4f9, #d6eef2);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background: linear-gradient(to right, #f4f4f9, #f9e4f4);
+
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #333333;
+}
+
+.input-form label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.input-form input,
+.input-form select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.result {
+    margin-top: 20px;
+    text-align: center;
+    color: #007bff;
+    font-size: 18px;
+}
+
+.density-table {
+    margin-top: 30px;
+}
+
+.density-table table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.density-table th, .density-table td {
+    border: 1px solid #cccccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.external-link {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.external-link a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.external-link a:hover {
+    text-decoration: underline;
+}
