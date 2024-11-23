@@ -18,7 +18,7 @@ Instant Calculations:
 Get immediate results based on the selected material and entered dimensions.
 Customizable Dimensions:
 
-Easily input dimensions (radius, height, side length) for each shape.
+mm(millimeters) m(meters)
 Instant Feedback:
 
 View the weight in real-time with accurate results displayed in kilograms (kg).
