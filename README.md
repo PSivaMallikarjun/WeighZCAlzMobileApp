@@ -12,7 +12,7 @@ Supports Multiple Materials:
 Calculate the weight for materials like Steel, Aluminum, Brass, and Copper, each with its specific density.
 Dynamic Shape Selection:
 
-Choose from a variety of shapes like cylinders, cubes, and spheres for accurate weight calculations.
+Choose from a variety of material just know its density.
 Instant Calculations:
 
 Get immediate results based on the selected material and entered dimensions.
